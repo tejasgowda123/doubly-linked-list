@@ -2,10 +2,6 @@ public class DoublyLinkedList {
 
   
 
-    //Represent a node of the doubly linked list  
-
-  
-
     class Node{  
 
         int data;  
