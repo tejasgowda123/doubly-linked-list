@@ -26,7 +26,6 @@ public class DoublyLinkedList {
 
   
 
-    //Represent the head and tail of the doubly linked list  
 
     Node head, tail = null;  
 
