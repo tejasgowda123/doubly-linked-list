@@ -26,8 +26,7 @@ public class DoublyLinkedList {
     Node head, tail = null;  
 
   
-
-    //addNode() will add a node to the list  
+  
 
     public void addNode(int data) {  
 
