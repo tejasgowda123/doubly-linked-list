@@ -30,7 +30,7 @@ public class DoublyLinkedList {
 
     public void addNode(int data) {  
 
-        //Create a new node  
+        
 
         Node newNode = new Node(data);  
 
