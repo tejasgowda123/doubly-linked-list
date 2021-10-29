@@ -36,7 +36,7 @@ public class DoublyLinkedList {
 
   
 
-        //If list is empty  
+        
 
         if(head == null) {  
 
