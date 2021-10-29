@@ -62,7 +62,7 @@ public class DoublyLinkedList {
 
             newNode.previous = tail;  
 
-            //newNode will become new tail  
+           
 
             tail = newNode;  
 
