@@ -42,7 +42,7 @@ public class DoublyLinkedList {
 
             head = tail = newNode;  
 
-            //head's previous will point to null  
+           
 
             head.previous = null;  
 
