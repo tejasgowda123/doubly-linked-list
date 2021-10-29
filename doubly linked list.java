@@ -80,7 +80,7 @@ public class DoublyLinkedList {
 
     public void display() {  
 
-        //Node current will point to head  
+        
 
         Node current = head;  
 
